@@ -1,5 +1,10 @@
 # pytorch-art-generation
 pytorch abstract art generation with tkinter gui
+
+Based on the following articles:
+https://blog.otoro.net/2015/06/19/neural-network-generative-art/
+https://blog.otoro.net/2016/03/25/generating-abstract-patterns-with-tensorflow/
+
 # setup
 install requirements.txt and run gui.py
 # info
